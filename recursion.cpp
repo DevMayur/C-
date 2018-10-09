@@ -2,7 +2,7 @@
 using namespace std;
 void bitch()
 {
-    cout<<"Hey beutiful bitch ";
+    cout<<"Recursion Program";
     bitch();
 }
 int main()
